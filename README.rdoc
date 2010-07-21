@@ -1,6 +1,7 @@
 = twitpic4r
 
 This is a twitpic API wrapper for ruby. Only upload method by API-v2 is supported.
+
 To know how to use it, see the sample code below.
 
 sample/main.rb
