@@ -6,11 +6,12 @@ begin
   Jeweler::Tasks.new do |gem|
     gem.name = "twitpic4r"
     gem.summary = %Q{twitpic API wrapper for ruby}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.description = %Q{twitpic API wrapper for ruby}
     gem.email = "tech.hosopy@gmail.com"
     gem.homepage = "http://github.com/hosopy/twitpic4r"
-    gem.authors = ["hosopy"]
+    gem.authors = ["Keishi Hosoba"]
     gem.add_development_dependency "thoughtbot-shoulda", ">= 0"
+    # gem.add_dependency "any-gem", "=> 1.2.3"
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
   end
   Jeweler::GemcutterTasks.new
