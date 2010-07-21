@@ -1,6 +1,9 @@
 = twitpic4r
 
-Description goes here.
+This is a twitpic API wrapper for ruby. Only upload method by API-v2 is supported.
+To know how to use it, see the sample code below.
+
+sample/main.rb
 
 == Note on Patches/Pull Requests
  
