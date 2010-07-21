@@ -56,7 +56,7 @@ module Twitpic
     end
 
     def delete(url, headers = {})
-      request(:DELETE, url, nil, headers)
+      raise NotImplemented.new('Sorry')
     end
     
     private
